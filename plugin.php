@@ -18,6 +18,9 @@ use Xpressengine\Plugins\Board\Handler as BoardHandler;
 use Xpressengine\Plugins\Comment\Models\Comment;
 use Xpressengine\User\UserInterface;
 
+/**
+ * test edit for pull request test
+ */
 class Plugin extends AbstractPlugin
 {
     /**
